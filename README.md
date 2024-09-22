@@ -3,11 +3,13 @@
 #### Front-end Developer
 ---
 ###### Skills at a glimpse:
+- Remix.js
 - Next.js
 - React.js
 - TypeScript
 - jQuery
 - JavaScript
+- Liquid
 - Bootstrap
 - Sass
 - CSS3
